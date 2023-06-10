@@ -1,6 +1,18 @@
-tvsmotors.com
-tvsmotors.co.in
-58.185.148.2
-218.248.28.233
-218.248.28.245
-123.63.232.242
+POST /nrxl/login HTTP/2
+Host: fastwin.app
+Cookie: PHPSESSID=15b5533b799fcc29778e594e048f3b16; GENXID=15b5533b799fcc29778e594e048f3b16
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+X-Requested-With: XMLHttpRequest
+Content-Length: 101
+Origin: https://fastwin.app
+Referer: https://fastwin.app/LR?LG&C=
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+Te: trailers
+
+login=1&mob=760493928&pin=123%40Qwe%40123
